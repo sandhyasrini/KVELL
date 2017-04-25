@@ -1,6 +1,6 @@
 
 
-.ulstyle {
+.ul-style {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,28 +9,28 @@
     
 }
 
-#sectionshadow{
+#section-shadow{
 	box-shadow:0 5px 5px -5px #888888;
 }
 
-#sectionstyle{
+#section-style{
 	width: 47%;
 	float:left;
 }
-.listyleright li{
+.style-right li{
 float: right;
 }
-.listyleleft li{
+.style-left li{
 float: left;
 }
-#subsectionstyle{
+#subsection-style{
 
 	width: 6%;
 	display: inline-block;
 	margin:0 auto;
 }
 
-#subsectionright{
+#subsection-right{
 
 	width: 47%;
 	float: right;
@@ -40,7 +40,7 @@ float: left;
 
 
 
-.headstyle
+.head-style
 {
 	color: #EDBC43;
 	 font-family: 'Josefin Sans';
@@ -49,7 +49,7 @@ float: left;
 	 line-height: 40px;
 
 }
-.parastyle
+.para-style
 {
 	font-family: 'Josefin Sans';
 	font-size:20px;
@@ -58,7 +58,7 @@ float: left;
 	;
 }
 
-.parastylenew
+.sub-parastyle
 {
 	
 	font-size:25px;
@@ -68,7 +68,7 @@ float: left;
 	line-height:30px;
 }
 
-#footerstyle
+#footer-style
 {
 	font-size:18px;
 	color: #fff;
@@ -79,13 +79,13 @@ float: left;
 }
 
 
-.leftalign > h4
+.left-align > h4
 {
 
 	margin-top: 0;
 }
 
-.leftalign ul li
+.left-align ul li
 {
 	
 	color: white;
@@ -97,12 +97,12 @@ float: left;
 	
 }
 
-.leftalign ul li a{
+.left-align ul li a{
 	text-decoration: none;
 	color: white;
 }
 
-.leftalign ul li a:hover{
+.left-align ul li a:hover{
 	text-decoration:underline;
 	color: #39C2E1;
 }
@@ -123,7 +123,7 @@ header div ul li a:hover {
     background-color: #111;
 }
 
-#headerclass{
+#header-class{
 width: 99%;
 position: fixed;
 text-align: center;
@@ -143,7 +143,7 @@ margin-top: 0px;
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
-#imagestyle2 h2
+#about-image h2
 {
 	font-size: 100px;
 	text-align: center;
@@ -151,7 +151,7 @@ margin-top: 0px;
 	font-family: 'Varela Round';
 }
 
-#innostyle
+#inno-style
 {
 	font-size: 50px;
 	text-align: center;
@@ -186,23 +186,23 @@ margin-top: 0px;
 	padding-right: 4px;
 }
 
-.leftalign{
+.left-align{
 	text-align: left;
 }
-.rightalign{
+.right-align{
 	text-align: right;
 }
-.centeralign{
+.center-align{
 	text-align: center;
 }
 
-#style1
+#footer-id
 {
 background-color: #646666;
 padding-top: 30px;
 }
 
-.textstyle{
+.about-text{
 	text-align: justify;
 	color: white; 
 	font-size: 25px;
@@ -211,7 +211,7 @@ padding-top: 30px;
 	padding-right: 10px;
 }
 
-.text-style{
+.innovation-text{
 	text-align: justify;
 	color: white; 
 	font-size: 25px;
@@ -221,7 +221,7 @@ padding-top: 30px;
 	margin-top: 0px;
 }
 
-.headstyle2{
+.landing-subhead{
 	text-align: center;
 	color: #39C2E1;
 text-align: center;
@@ -236,7 +236,7 @@ div section h1{
 	font-family: 'Varela Round';
 }
 
-#headstyle3{
+#hero-subhead{
 	font-size: 60px;
 	text-align: center;
 	color: #EDBC43;
@@ -250,7 +250,7 @@ div section h1{
 	padding-top: 20px;
 }
 
-#grid-div
+#grid-style
 {
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg2.png);
 	 background-repeat: no-repeat;
@@ -258,29 +258,29 @@ div section h1{
 	 height: 100%;
 	 margin-top: 0px;
 }
-#imagestyle2{
+#about-image{
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg3.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
 }
-#imagestyle3{
+#kaptain-style{
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
 }
-#imagestyle4{
+#pop-style{
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg5.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
 }
 
-#imagestyle3 h2{
+#kaptain-style h2{
 	font-size: 60px;text-align: center;color:  #39C2E1;font-family: 'Varela Round';
 }
-#imagestyle4 h2{
+#pop-style h2{
 font-size: 60px;text-align: center;color: #E65F5B;font-family: 'Varela Round';
 }
 
