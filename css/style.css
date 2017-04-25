@@ -72,7 +72,35 @@ float: left;
 	 margin-bottom: 0px;
 }
 
-li a {
+
+.leftalign > h4
+{
+
+	margin-top: 0;
+}
+
+.leftalign ul li
+{
+	
+	color: white;
+	list-style: none;
+	text-align: left;
+	margin-left: -34px;
+	line-height: 30px;
+	
+}
+
+.leftalign ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.leftalign ul li a:hover{
+	text-decoration:underline;
+	color: #39C2E1;
+}
+
+section li a {
     display: block;
     color: white;
     text-align: center;
@@ -84,7 +112,7 @@ li a {
     font-size: 20px;
 }
 
-li a:hover {
+section li a:hover {
     background-color: #111;
 }
 
