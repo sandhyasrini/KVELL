@@ -257,26 +257,26 @@ div section h1{
 
 #grid-style
 {
-	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg2.png);
+	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/landing-bg.png);
 	 background-repeat: no-repeat;
 	 background-size: cover;
 	 height: 100%;
 	 margin-top: 0px;
 }
 #about-image{
-	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg3.png);
+	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/about-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
 }
 #kaptain-style{
-	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg.png);
+	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/kaptain-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
 }
 #pop-style{
-	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg5.png);
+	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/pop-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
