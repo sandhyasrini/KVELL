@@ -54,7 +54,7 @@ float: left;
 	font-family: 'Josefin Sans';
 	font-size:20px;
 	line-height: 25px;
-	margin: 15px 0px;
+	margin: 5px 0px;
 	;
 }
 
@@ -116,7 +116,7 @@ header div ul li a {
     line-height: 65px;
     text-decoration: none;
     font-family: 'Josefin Sans';
-    font-size: 20px;
+    font-size: 25px;
 }
 
 header div ul li a:hover {
@@ -132,7 +132,10 @@ margin-top: 0px;
 }
 
 .hero-unit {
-    padding: 60px;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-right: 30px;
+    padding-left: 30px;
     margin-bottom: 0px;
     font-size: 18px;
     font-weight: 200;
@@ -149,6 +152,7 @@ margin-top: 0px;
 	text-align: center;
 	color: #fff;
 	font-family: 'Varela Round';
+	padding-top: 0px;
 }
 
 #inno-style
@@ -207,7 +211,7 @@ padding-top: 30px;
 	color: white; 
 	font-size: 25px;
 	line-height: 35px;
-	padding-top: 80px;
+	padding-top: 20px;
 	padding-right: 10px;
 }
 
@@ -241,6 +245,7 @@ div section h1{
 	text-align: center;
 	color: #EDBC43;
 	padding-bottom: 40px;
+	width: 100%;
 }
 
 #landing-style{
@@ -288,4 +293,10 @@ font-size: 60px;text-align: center;color: #E65F5B;font-family: 'Varela Round';
 	text-decoration:underline;
 	color: #39C2E1;
 }
-
+.about-image{
+	align-content: center;
+	align-items: center;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
