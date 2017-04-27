@@ -324,7 +324,7 @@ article h4{
 	padding: 0px;
 }
 
-#horizontal:after{
+.horizontal:after{
 	content: " ";
 	display: block;
 	border-bottom: 1px solid white;
