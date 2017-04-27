@@ -304,6 +304,7 @@ div section h1{
 }
 #pop-style h2{
 font-size: 60px;text-align: center;color: #E65F5B;font-family: 'Varela Round';
+padding-top: 60px;padding-bottom: 10px;
 }
 
 .sub-parastyle a:hover{
