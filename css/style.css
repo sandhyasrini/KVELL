@@ -11,6 +11,7 @@
 
 #section-shadow{
 	box-shadow:0 5px 5px -5px #888888;
+
 }
 
 #section-style{
@@ -54,7 +55,7 @@ float: left;
 	font-family: 'Josefin Sans';
 	font-size:20px;
 	line-height: 25px;
-	margin: 5px 0px;
+	margin: 0px 0px;
 	;
 }
 
@@ -155,7 +156,16 @@ margin-top: 0px;
 	padding-top: 0px;
 }
 
-#inno-style
+#inno-style 
+{
+	font-size: 50px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Varela Round';
+	padding-top: 20px;
+	
+}
+#inno-style h3
 {
 	font-size: 50px;
 	text-align: center;
@@ -174,7 +184,7 @@ margin-top: 0px;
 }
 
 .align-div{
-	margin-top: 10px;
+	margin-top: 0px;
 	padding-top: 23px;
 }
 
@@ -182,7 +192,7 @@ margin-top: 0px;
 	padding-top: 26px;
 }
 
-.glyph{
+.glyph a{
 	font-size:24px;
 	color: white;
 	text-decoration: none;
@@ -220,9 +230,8 @@ padding-top: 30px;
 	color: white; 
 	font-size: 25px;
 	line-height: 40px;
-	padding-bottom: 10
-	px;
-	margin-top: 0px;
+	padding-bottom: 10px;
+	margin-top: 10px;
 }
 
 .landing-subhead{
@@ -244,7 +253,7 @@ div section h1{
 	font-size: 60px;
 	text-align: center;
 	color: #EDBC43;
-	padding-bottom: 40px;
+	padding-bottom: 0px;
 	width: 100%;
 }
 
@@ -258,27 +267,35 @@ div section h1{
 #grid-style
 {
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/landing-bg.png);
-	 background-repeat: no-repeat;
-	 background-size: cover;
+	 background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	 height: 100%;
 	 margin-top: 0px;
 }
 #about-image{
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/about-bg.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	height: 100%;
 }
 #kaptain-style{
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/kaptain-bg.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	height: 100%;
 }
 #pop-style{
 	background-image:linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/pop-bg.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 	height: 100%;
 }
 
@@ -297,6 +314,12 @@ font-size: 60px;text-align: center;color: #E65F5B;font-family: 'Varela Round';
 	align-content: center;
 	align-items: center;
 	text-align: center;
-	padding-top: 10px;
+	padding-top: 0px;
 	padding-bottom: 10px;
 }
+article h4{
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
