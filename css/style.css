@@ -1,5 +1,5 @@
 
-
+/*header section*/
 .ul-style {
     list-style-type: none;
     margin: 0;
@@ -9,23 +9,33 @@
     
 }
 
-
+/*Shadow*/
 
 #section-shadow{
 	box-shadow:0 5px 5px -5px #888888;
 
 }
 
+/*landing-style*/
+
 #section-style{
 	width: 47%;
 	float:left;
 }
+
+/*float right */
 .style-right li{
 float: right;
 }
+
+/*float left */
 .style-left li{
 float: left;
 }
+
+
+/*styles for sub-sections*/
+
 #subsection-style{
 
 	width: 6%;
@@ -41,7 +51,7 @@ float: left;
 
 
 
-
+/*style for heading*/
 
 .head-style
 {
@@ -53,6 +63,8 @@ float: left;
 
 }
 
+
+/*content style*/
 
 .para-style
 {
@@ -73,6 +85,8 @@ float: left;
 	line-height:30px;
 }
 
+/*footer style*/
+
 #footer-style
 {
 	font-size:18px;
@@ -90,6 +104,8 @@ float: left;
 	margin-top: 0;
 }
 
+/*nav styles*/
+
 .left-align ul li
 {
 	
@@ -102,10 +118,13 @@ float: left;
 	
 }
 
+
 .left-align ul li a{
 	text-decoration: none;
 	color: white;
 }
+
+/*Hover property*/
 
 .left-align ul li a:hover{
 	text-decoration:underline;
@@ -124,6 +143,9 @@ header div ul li a {
     font-size: 25px;
 }
 
+
+/*Hover property*/
+
 header div ul li a:hover {
     background-color: #111;
 }
@@ -135,6 +157,9 @@ text-align: center;
 margin-top: 0px;
 
 }
+
+
+/*Hero Unit*/
 
 .hero-unit {
     padding-top: 30px;
@@ -151,6 +176,9 @@ margin-top: 0px;
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
+
+/*image style*/
+
 #about-image h2
 {
 	font-size: 100px;
@@ -159,6 +187,8 @@ margin-top: 0px;
 	font-family: 'Varela Round';
 	padding-top: 0px;
 }
+
+/*nnovation content style*/
 
 #inno-style 
 {
@@ -196,6 +226,9 @@ margin-top: 0px;
 	padding-top: 26px;
 }
 
+
+/*icons style*/
+
 .glyph a{
 	font-size:24px;
 	color: white;
@@ -203,6 +236,8 @@ margin-top: 0px;
 	text-decoration-color: white;
 	padding-right: 4px;
 }
+
+/*alignments*/
 
 .left-align{
 	text-align: left;
@@ -219,6 +254,8 @@ margin-top: 0px;
 background-color: #646666;
 padding-top: 30px;
 }
+
+/*about text style*/
 
 .about-text{
 	text-align: justify;
